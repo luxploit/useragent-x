@@ -1,4 +1,4 @@
-# [luxploit](https://github.com/luxploit)/[uax](https://github.com/luxploit/useragent-x)
+# [luxploit](https://luxploit.net)/[uax](https://github.com/luxploit/useragent-x)
 
 > [!CAUTION]
 > This library is an unfinished state and is missing major bits of functionality aswell as testing as I have not yet had the time to
